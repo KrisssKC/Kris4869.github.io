@@ -1,0 +1,12 @@
+China Basemap.rar (application/x-rar-compressed) 449706 bytes.
+china_city_basemap.zip (application/zipped-shapefile) 3891099 bytes.
+China_City_Index.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 20382 bytes.
+china_province_basemap.zip (application/zipped-shapefile) 551391 bytes.
+China_Province_Index.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 18334 bytes.
+City_Confirmed_0115_0419.csv (text/csv) 171648 bytes.
+City_Death_0115_0419.csv (text/csv) 145484 bytes.
+City_Recover_0115_0419.csv (text/csv) 161978 bytes.
+Prov_Confirmed_0115_0419.csv (text/csv) 20020 bytes.
+Prov_Death_0115_0419.csv (text/csv) 14860 bytes.
+Prov_Recover_0115_0419.csv (text/csv) 19160 bytes.
+README.txt (text/plain) 403 bytes.

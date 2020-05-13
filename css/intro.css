@@ -1,0 +1,10 @@
+#start{
+	position: absolute;
+	height: 600px;
+	width: 1000px;
+	background-color: antiquewhite;
+	z-index: 100;
+	border: medium;
+	margin: 5px;
+	padding: 30px;
+}

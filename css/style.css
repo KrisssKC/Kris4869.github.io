@@ -1,0 +1,110 @@
+/*
+Color Theme Swatches in Hex
+from: https://color.adobe.com/720ab200490a8131a4a9aa7749902173-color-theme-13470410
+#F27294
+#04ADBF
+#45BF9D
+#F2E0D5
+#F24C27
+*/
+
+
+body{
+  	margin:0;
+  	margin-top:0px;
+	display: flex;
+	align-items: baseline;
+	align-content: space-between;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+#bar{
+	width: 100%;
+	display: flex;
+	align-content: center;
+	justify-content:space-around;
+	background-color: firebrick;
+	margin-bottom: 5px;
+	margin-top: 0;
+}
+
+#top{
+	display: flex;
+	align-content: center;
+	justify-content: space-around;
+	align-items: baseline;
+	height: 10%;
+	width: 100%;
+}
+
+#token{
+	display: flex;
+	align-content: flex-start;
+}
+
+#news{
+	background-color: crimson;
+	width: 800px;
+	height: 50px;
+	display: flex;
+	align-content: center;
+	justify-content:space-around;
+}
+
+.topelement{
+	position: relative;
+	margin: 5px;
+	border: 3px;
+	height: 20px;
+	width: auto;
+}
+
+#main{
+	display: flex;
+	justify-content: space-around;
+	background-color: aquamarine;
+	height: 100%;
+}
+
+#display{
+	height: 800px;
+	width: 800px;
+	background-color: blue;
+	flex-wrap: wrap;
+	display: flex;
+	align-content: space-around;
+	justify-content: space-around;
+	align-items: baseline;
+}
+
+#control{
+	border: 5px;
+	height: 800px;
+	width: 400px;
+	background-color: darkgreen;
+	padding: 30px;
+}
+
+.description{
+	position:absolute; 	
+	margin: 3px;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  position: absolute;
+  z-index: 10;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+	padding: 2px;
+}
